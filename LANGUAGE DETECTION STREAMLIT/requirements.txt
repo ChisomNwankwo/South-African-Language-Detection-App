@@ -1,0 +1,8 @@
+string 
+re
+numpy  
+pandas 
+seaborn
+matplotlib
+sklearn 
+itertools
